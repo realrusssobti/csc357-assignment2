@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "csc357_assignment2_realrusssobti",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "csc357_assignment2_realrusssobti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-csc357_assignment2_realrusssobti-Debug-52601fa2424c7668a124.json",
+					"name" : "csc357_assignment2_realrusssobti",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/rsobti/Documents/academic/CSC357/csc357-assignment2-realrusssobti/cmake-build-debug",
+		"source" : "/Users/rsobti/Documents/academic/CSC357/csc357-assignment2-realrusssobti"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
